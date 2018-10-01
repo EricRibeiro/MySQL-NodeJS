@@ -11,5 +11,10 @@
     "url": "https://github.com/nodejs-mysql.git"
   },
   "author": "ericribeiro",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mysql": "^2.16.0"
+  }
 }
